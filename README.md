@@ -2,4 +2,4 @@
 
 Website from below link:
 
-https://gbdiwaliproject.ccbp.tech/
+gsbdiwali.ccbp.tech
